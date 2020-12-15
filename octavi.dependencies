@@ -11,9 +11,9 @@
         "remote": "github"
     },
      {
-        "repository": "stormbreaker-project/kernel_xiaomi_vince",
+        "repository": "Blacksuan19/kernel_dark_ages_vince",
         "target_path": "kernel/xiaomi/vince",
-        "branch": "r11.0",
+        "branch": "darky",
         "remote": "github"
     },
 ]
