@@ -68,7 +68,7 @@ persist.qfp=false
 
 # Fling velocity
 ro.max.fling_velocity=12000
-ro.min.fling_velocity=160
+ro.min.fling_velocity=60
 
 # FM
 hw.fm.init=0
